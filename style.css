@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-bottom: 3px solid rgba(0, 0, 0,0.7);
+  }
+  .data{
+    width: 30%;
+  }
+  h2{
+    color: rgba(0,0,0,0.8);
+  }
+  p{
+    color: rgba(0,0,0,0.6); 
+  }
+  .img{
+    width: 720px;
+    height: 245px;
+    background-image: url("https://miro.medium.com/max/720/1*O2y0S3eEMQQubPSx6JTmYA.png");
+  }
